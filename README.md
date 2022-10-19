@@ -1,4 +1,4 @@
-# variaveis-em-csharp<br>
+# Explorando C# - Alura<br>
 <h2> Esses exercícios foram feitos acompanhando a trilha de "C#: explorando a linguagem" da Alura.<br><br>
 Exercício simples de criação de variáveis .NET
 
